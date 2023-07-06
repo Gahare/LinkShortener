@@ -1,0 +1,11 @@
+{
+  "serverport": 8800,
+  "db": {
+    "Host": "localhost",
+    "Port": 5432,
+    "Username": "postgres",
+    "Password": "qwerty",
+    "DBName": "postgres",
+    "SSLMode": "disable"
+  }
+}
